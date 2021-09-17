@@ -1,5 +1,4 @@
 # Projeto Spring-Boot Product-MS
-Repositório para API REST <br/>
 
 ## OBJETIVO
 
